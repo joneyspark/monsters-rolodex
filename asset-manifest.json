@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//joneyspark.github.io/monsters-rolodex/static/css/main.6fe5bcaa.chunk.css",
+    "main.js": "//joneyspark.github.io/monsters-rolodex/static/js/main.aa246653.chunk.js",
+    "main.js.map": "//joneyspark.github.io/monsters-rolodex/static/js/main.aa246653.chunk.js.map",
+    "runtime-main.js": "//joneyspark.github.io/monsters-rolodex/static/js/runtime-main.d8fd99ac.js",
+    "runtime-main.js.map": "//joneyspark.github.io/monsters-rolodex/static/js/runtime-main.d8fd99ac.js.map",
+    "static/js/2.6fdc311b.chunk.js": "//joneyspark.github.io/monsters-rolodex/static/js/2.6fdc311b.chunk.js",
+    "static/js/2.6fdc311b.chunk.js.map": "//joneyspark.github.io/monsters-rolodex/static/js/2.6fdc311b.chunk.js.map",
+    "static/js/3.cfea3fee.chunk.js": "//joneyspark.github.io/monsters-rolodex/static/js/3.cfea3fee.chunk.js",
+    "static/js/3.cfea3fee.chunk.js.map": "//joneyspark.github.io/monsters-rolodex/static/js/3.cfea3fee.chunk.js.map",
+    "index.html": "//joneyspark.github.io/monsters-rolodex/index.html",
+    "static/css/main.6fe5bcaa.chunk.css.map": "//joneyspark.github.io/monsters-rolodex/static/css/main.6fe5bcaa.chunk.css.map",
+    "static/js/2.6fdc311b.chunk.js.LICENSE.txt": "//joneyspark.github.io/monsters-rolodex/static/js/2.6fdc311b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d8fd99ac.js",
+    "static/js/2.6fdc311b.chunk.js",
+    "static/css/main.6fe5bcaa.chunk.css",
+    "static/js/main.aa246653.chunk.js"
+  ]
+}
